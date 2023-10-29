@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class PasswordManager {
-//    djrsb
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice = 0;
@@ -120,4 +119,4 @@ public class PasswordManager {
         return new StringBuilder(str).reverse().toString();
     }
 }
-//邓佳戎和何文浩的修改
+//邓佳戎和何文浩的修改1212121212
