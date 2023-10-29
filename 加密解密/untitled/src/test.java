@@ -9,3 +9,4 @@ public class test {
         return str.equals(reversed); // 比较反转后的字符串与原来的字符串
     }
 }
+//修改代码
