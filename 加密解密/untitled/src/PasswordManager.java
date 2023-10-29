@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class PasswordManager {
+//    djrsb
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice = 0;
